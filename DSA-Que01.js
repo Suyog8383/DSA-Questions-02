@@ -2,7 +2,7 @@ class Dog {
     constructor(name) {
       this.name = name;
     }
-  };
+  };  
   
   class Labrador extends Dog {
     // 1
